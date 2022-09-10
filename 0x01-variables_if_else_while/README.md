@@ -1,1 +1,1 @@
-Program that print all the single digit numbers of base 10 starting from 0, followed by the new line
+Program that prints all the single digit numbers of base 10 starting from 0, followed by a new line

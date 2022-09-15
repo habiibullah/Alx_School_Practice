@@ -1,15 +1,15 @@
 /*
- * File: 4-isalpha.c 
+ * File: 4-isalpha.c
  * Auth: Habiibullah B Ajiboye
  */
 
 #include "main.h"
 
 /**
- * _isalpha - Checks if a character is alphabetic.
- * @c: The character to be checked.
+ * _isalpha - checks if a character is alphabetic
+ * @c : The character to be checked
  *
- * Return: 1 if character is letter,lowercase or uppercase, 0 otherwise
+ * Return: 1 if the character is alphabet, lowercase or uppercase
  */
 
 int _isalpha(int c)

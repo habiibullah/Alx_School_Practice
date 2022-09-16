@@ -1,1 +1,1 @@
-function that prints 9 times table, starting with 0
+Write a function that prints all natural number from n to 98, followed by a new line
